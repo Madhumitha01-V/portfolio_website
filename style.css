@@ -1,0 +1,51 @@
+body{
+    margin:0;
+    font-family: Arial;
+    background:#f2f2f2;
+}
+
+header{
+    background:red;
+    color:white;
+    text-align:center;
+    padding:40px;
+}
+
+section{
+    background:white;
+    margin:20px;
+    padding:20px;
+    border-radius:10px;
+}
+
+h2{
+    color:yellow;
+}
+
+ul{
+    list-style:none;
+    padding:0;
+}
+
+ul li{
+    background:white;
+    color:white;
+    display:inline-block;
+    padding:10px 15px;
+    margin:5px;
+    border-radius:5px;
+}
+
+.card{
+    background:grey;
+    padding:15px;
+    margin-top:10px;
+    border-radius:8px;
+}
+
+footer{
+    background:white;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
